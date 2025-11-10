@@ -1,3 +1,4 @@
+#15)  Make a phonebook by saving the Name and the phone number in the mysql table and when searched by the user, it should fetch the matching contacts also have the facility to edit and delete contacts.
 import mysql.connector
 
 # --- Database connection ---
